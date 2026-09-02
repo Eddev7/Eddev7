@@ -86,8 +86,8 @@ flowchart LR
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Eddev7&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&locale=pt-br" alt="Estatísticas do GitHub de Eduardo Nogueira" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eddev7&layout=compact&theme=github_dark&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas por Eduardo Nogueira" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Eddev7&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&locale=pt-br&cache_seconds=86400" alt="Estatísticas do GitHub de Eduardo Nogueira" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eddev7&layout=compact&theme=github_dark&hide_border=true&locale=pt-br&cache_seconds=86400" alt="Linguagens mais utilizadas por Eduardo Nogueira" />
 
 <img src="https://streak-stats.demolab.com/?user=Eddev7&theme=github-dark-blue&hide_border=true&locale=pt_BR" alt="Sequência de contribuições no GitHub" />
 

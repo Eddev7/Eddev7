@@ -68,7 +68,7 @@ eduardo = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![uv](https://img.shields.io/badge/uv-DE5FE9?style=for-the-badge&logo=astral&logoColor=white)
+![uv](https://img.shields.io/badge/uv-DE5FE9?style=for-the-badge)
 
 ## Como eu trabalho
 
@@ -89,7 +89,7 @@ flowchart LR
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Eddev7&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&locale=pt-br" alt="Estatísticas do GitHub de Eduardo Nogueira" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eddev7&layout=compact&theme=github_dark&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas por Eduardo Nogueira" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Eddev7&theme=github-dark-blue&hide_border=true&locale=pt_BR" alt="Sequência de contribuições no GitHub" />
+<img src="https://streak-stats.demolab.com/?user=Eddev7&theme=github-dark-blue&hide_border=true&locale=pt_BR" alt="Sequência de contribuições no GitHub" />
 
 </div>
 

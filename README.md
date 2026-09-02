@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0969DA,100:00C2FF&height=190&section=header&text=Eduardo%20Nogueira&fontSize=44&fontColor=FFFFFF&fontAlignY=35&desc=Analista%20de%20Dados%20%26%20Automa%C3%A7%C3%A3o&descAlignY=58&descSize=20" alt="Cabeçalho: Eduardo Nogueira — Analista de Dados e Automação" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0969DA,100:00C2FF&height=190&section=header&text=Eduardo%20Nogueira&fontSize=44&fontColor=FFFFFF&fontAlignY=35&desc=Analista%20de%20Dados%20e%20Automa%C3%A7%C3%A3o&descAlignY=58&descSize=20" alt="Cabeçalho: Eduardo Nogueira — Analista de Dados e Automação" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=2F81F7&center=true&vCenter=true&width=760&lines=Dados+que+viram+decis%C3%B5es.;Processos+que+viram+automa%C3%A7%C3%B5es.;ERP+%E2%86%92+ETL+%E2%86%92+PostgreSQL+%E2%86%92+BI)](https://git.io/typing-svg)
 
